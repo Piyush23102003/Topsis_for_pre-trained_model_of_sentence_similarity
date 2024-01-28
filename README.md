@@ -5,4 +5,4 @@ In this projects we have import or load pre-trained models from hugging face usi
 ## Calculate topsis score
 Calculate topsis score on basis of some features such as cosine similarity, manhattan distance,correlation,euclidean distance etc.
 ## Ranking
-Rank the models on basis of topsis score that is obtained( higher the score, higher the rank )
+Rank the models on basis of topsis score that is obtained( higher the score, higher the rank ) and plotted the bar graph using seaborn
